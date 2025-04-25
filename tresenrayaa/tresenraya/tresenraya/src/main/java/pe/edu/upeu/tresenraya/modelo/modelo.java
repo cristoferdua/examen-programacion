@@ -3,10 +3,7 @@ package pe.edu.upeu.tresenraya.modelo;
 import javafx.beans.property.SimpleIntegerProperty;
 import javafx.beans.property.SimpleStringProperty;
 
-/**
- * Esta clase guarda los datos de cada partida del Tres en Raya
- * Se usa para mostrar la información en la tabla y guardar en el ArrayList
- */
+
 public class modelo {
     // Nombre o número de la partida (ej: "Partida 1")
     private final SimpleStringProperty partido;
