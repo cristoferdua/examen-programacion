@@ -5,10 +5,7 @@ import pe.edu.upeu.tresenraya.modelo.modelo;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Implementación concreta de servicios.java
- * Usa un ArrayList para guardar las partidas (como si fuera una base de datos)
- */
+
 @Service
 public class seviciosim implements servicios {
     // Aquí se guardan todas las partidas
