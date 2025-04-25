@@ -3,10 +3,7 @@ package pe.edu.upeu.tresenraya.servicios;
 import pe.edu.upeu.tresenraya.modelo.modelo;
 import java.util.List;
 
-/**
- * Interfaz que define las operaciones para manejar las partidas
- * Es implementada por seviciosim.java
- */
+
 public interface servicios {
     // Guarda una nueva partida
     public void save(modelo to);
